@@ -27,6 +27,7 @@
 			<scope>runtime</scope>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.persistence/persistence-api -->
+		
 <dependency>
     <groupId>javax.persistence</groupId>
     <artifactId>persistence-api</artifactId>
